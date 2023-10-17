@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice 15</string>
+    <string name="zagolovok">Введите породу, год и месяц рождения вашего питомца</string>
+    <string name="mix">отправить</string>
+</resources>
